@@ -1,4 +1,4 @@
-# shopping_app
+# Flutter_Rainbow_Waterfall
 
 A new Flutter project.
 
